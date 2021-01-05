@@ -272,7 +272,7 @@ def niv_I():
     explosionjefesonido = mixer.Sound("Nivel I/Sonidos/ExplosionJefe.wav")
     fondo2sonido = mixer.Sound("Nivel I/Sonidos/Fondo2.wav")
     superataquesonido = mixer.Sound("Nivel I/Sonidos/SuperAtaque.wav")
-    cinematicasonido = mixer.Sound("Nivel I/Sonidos/Cinematica.wav")
+    
     screen = pygame.display.set_mode((1280, 720))
     screen.fill((0, 0, 0))
     pygame.display.set_caption("Shut 'em all")
